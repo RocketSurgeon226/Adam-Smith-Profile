@@ -1,0 +1,14 @@
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\AnalyzeMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\AnalyzeMusicPlaylist.AssemblyInfo.cs
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\bin\Debug\net9.0\AnalyzeMusicPlaylist.exe
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\bin\Debug\net9.0\AnalyzeMusicPlaylist.deps.json
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\bin\Debug\net9.0\AnalyzeMusicPlaylist.runtimeconfig.json
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\bin\Debug\net9.0\AnalyzeMusicPlaylist.dll
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\bin\Debug\net9.0\AnalyzeMusicPlaylist.pdb
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\AnalyzeMusicPlaylist.dll
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\refint\AnalyzeMusicPlaylist.dll
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\AnalyzeMusicPlaylist.pdb
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\AnalyzeMusicPlaylist.genruntimeconfig.cache
+C:\INFOTC 2040 Spring 25\Challenges\C# VS Code\AnalyzeMusicPlaylist\obj\Debug\net9.0\ref\AnalyzeMusicPlaylist.dll
